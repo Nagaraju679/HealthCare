@@ -1,0 +1,39 @@
+#body {
+    background-color: rgb(210, 232, 178);
+    text-align: center;
+}
+#h {
+    color: #d84b67;
+    font-size: 40px;
+}
+#p1 {
+    color: rgb(7, 93, 241);
+    font-size: 25px;
+}
+#p2 {
+    color: rgb(7, 93, 241);
+    font-size: 25px;
+}
+#head {
+    color: darkred;
+    font-size: 40px;
+}
+h1 {
+    color: #f20909;
+    font-size: 60px;
+}
+h4 {
+    color: rgb(237, 11, 211);
+    font-size: 30px;
+}
+#para1 {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+#para2 {
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+}
