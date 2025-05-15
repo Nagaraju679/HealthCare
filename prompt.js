@@ -1,7 +1,7 @@
 let userName = prompt("Enter Your Name?");
 let title = `Hello ${userName} Welcome To Our WebPage`;
-let height = prompt("Enter Your Height in cm");
-let weight = prompt("Enter Your Weight in kg");
+let height = Number(prompt("Enter Your Height in cm"));
+let weight = Number(prompt("Enter Your Weight in kg"));
 document.getElementById("h").innerHTML = title;
 document.getElementById("p1").innerHTML = `Your Height Is : ${height} cm`;
 document.getElementById("p2").innerHTML = `Your Weight Is : ${weight} kg`;
